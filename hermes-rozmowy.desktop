@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Rozmowy Hermes → tekst
+Comment=Wyciąga z zapisu czatu Hermesa (JSON) czysty tekst rozmowy Ja/Pati
+Exec=python3 /home/sebastian/.local/share/hermes-rozmowy/rozmowy.py
+Icon=text-x-generic
+Terminal=false
+Categories=Utility;
